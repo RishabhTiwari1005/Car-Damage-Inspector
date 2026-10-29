@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pyc
+data/
+runs/
+datasets/
+models/*.pt
+.pytest_cache/
